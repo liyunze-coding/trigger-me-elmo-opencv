@@ -1,0 +1,4 @@
+deepface==0.0.75
+numpy==1.22.4
+opencv_python==4.5.5.64
+PyAudio==0.2.11
