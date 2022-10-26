@@ -1,4 +1,3 @@
-from click import progressbar
 from deepface import DeepFace
 import cv2
 
